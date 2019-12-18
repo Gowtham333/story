@@ -1,0 +1,2 @@
+Hey hi
+First text file to setup git Repository from command line.
